@@ -1,2 +1,2 @@
 # progress-steps
-A progress bar. 50 projects
+Progress bar. Day 2 - 50 days of code
